@@ -90,7 +90,10 @@ main {
 /* Mobile device styling */
 @media screen and (max-width: 576px) {
   #mapid {
+    position: fixed;
+    top: 86px;
     left: 0;
+    height: 90vh;
     width: 100vw;
   }
 }
