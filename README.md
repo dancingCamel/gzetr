@@ -1,2 +1,2 @@
-# gzetr-pwa
-A progressive web app implementation of the gzetr project
+# gzetr
+A gazetteer of countries
